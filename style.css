@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+  .b12 {
+    width: 300px;
+    height: auto;
+  }
+  .b13 {
+    font: 20px;
+  }
+}
